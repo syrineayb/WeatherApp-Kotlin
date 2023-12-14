@@ -1,4 +1,3 @@
-A simple weather app built with Kotlin that provides weather forecasts based on location. The app fetches weather data from a weather API .
 # Kotlin Weather App
 
 A simple weather app built with Kotlin that provides weather forecasts based on location. The app fetches weather data from a weather API and presents it in a user-friendly interface.
